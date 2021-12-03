@@ -1,0 +1,4 @@
+[
+null,
+{"id":1,"battlerName":"mybattler 2","characterIndex":1,"characterName":"mybattler","classId":1,"equips":[0,1,2,3,0],"faceIndex":1,"faceName":"myface","traits":[{"code":41,"dataId":2,"value":1},{"code":22,"dataId":5,"value":0.22},{"code":23,"dataId":2,"value":1.24},{"code":23,"dataId":4,"value":0.5},{"code":23,"dataId":8,"value":0.2},{"code":23,"dataId":9,"value":1},{"code":33,"dataId":0,"value":75},{"code":54,"dataId":1,"value":1},{"code":61,"dataId":0,"value":0.3}],"initialLevel":10,"maxLevel":99,"name":"Tom","nickname":"","note":"","profile":""}
+]
